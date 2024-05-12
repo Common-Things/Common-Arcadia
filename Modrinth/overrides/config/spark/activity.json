@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "craftish37",
+      "uniqueId": "48e021d0-04b9-4014-ac4b-c737260aa2d9"
+    },
+    "time": 1714066348359,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Njpb2E3QFd"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "craftish37",
+      "uniqueId": "48e021d0-04b9-4014-ac4b-c737260aa2d9"
+    },
+    "time": 1714063301609,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/hyc3LUcYen"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "craftish37",
+      "uniqueId": "48e021d0-04b9-4014-ac4b-c737260aa2d9"
+    },
+    "time": 1712775025261,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/BzuEhLQK7K"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "polymer:core": true,
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:fabric": true,
+  "waila:team_reborn_energy": true,
+  "waila:test": false,
+  "waystones:plugin": true,
+  "waystones:wthit": true,
+  "betternether:plugin": true,
+  "additionz:plugin": true,
+  "treechop:plugin": true,
+  "levelz:plugin": true,
+  "nameplate:plugin": true,
+  "zenith:ench": true,
+  "zenith:spawner": true,
+  "zenith:adventure": true
+}

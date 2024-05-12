@@ -1,0 +1,195 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				ravager = true
+				bee = true
+				axolotl = true
+				arrow = true
+				cow = true
+				chest_minecart = true
+				tropical_fish = true
+				pig = true
+				slime = true
+				pillager = true
+				allay = true
+				skeleton = true
+				iron_golem = true
+				bat = true
+				cat = true
+				zombie = true
+				armor_stand = true
+				drowned = true
+				sheep = true
+				player = true
+				dolphin = true
+				item = true
+				stray = true
+				villager = true
+				vex = true
+				wither_skeleton = true
+				salmon = true
+				zombie_villager = true
+				strider = true
+				vindicator = true
+				minecart = true
+				painting = true
+				cave_spider = true
+				mooshroom = true
+				glow_squid = true
+				witch = true
+				cod = true
+				glow_item_frame = false
+				squid = true
+				spider = true
+				creeper = true
+				enderman = true
+				illusioner = true
+				item_frame = true
+				horse = true
+				fox = true
+				wolf = true
+				rabbit = true
+				experience_orb = true
+				tnt_minecart = true
+				lightning_bolt = true
+				silverfish = true
+				wandering_trader = true
+				zombified_piglin = true
+				llama = true
+				potion = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+				rascal = true
+				mauler = true
+				copper_golem = true
+
+			[light_sources.settings.entities.etcetera]
+				eggple = true
+				chapple = true
+
+			[light_sources.settings.entities.adventurez]
+				amethyst_golem = true
+				summoner = true
+
+			[light_sources.settings.entities.naturalist]
+				firefly = true
+				butterfly = true
+				robin = true
+				bass = true
+				finch = true
+				lizard = true
+				bear = true
+				deer = true
+				cardinal = true
+				boar = true
+				canary = true
+				snail = true
+				bluejay = true
+
+			[light_sources.settings.entities.illagerinvasion]
+				sorcerer = true
+				archivist = true
+				basher = true
+				provoker = true
+
+			[light_sources.settings.entities.wildlife]
+				lark = true
+				sparrow = true
+				goldfish = true
+				rainbow_trout = true
+				prawn = true
+				koi = true
+				bluegill = true
+				bettafish = true
+				catfish = true
+				clam = true
+				horseshoecrab = true
+				sanddollar = true
+				seaurchin = true
+				starfish = true
+				hermitcrab = true
+				crab = true
+				beaver = true
+				glow_jellyfish = true
+				anglerfish = true
+				grass_snake = true
+				spider = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.immersive_aircraft]
+				biplane = true
+
+			[light_sources.settings.entities.doapi]
+				chair = true
+
+			[light_sources.settings.entities.levelz]
+				level_experience_orb = true
+
+			[light_sources.settings.entities.meadow]
+				brown_bear = true
+				wooly_cow = true
+
+			[light_sources.settings.entities.automobility]
+				automobile = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
+				super_glue = true
+
+			[light_sources.settings.entities.bloomingnature]
+				deer = true
+				owl = true
+				boar = true
+				turkey = true
+				wandering_gardener = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				dark_oak_creeper = true
+				dripstone_creeper = true
+				cave_creeper = true
+				hills_creeper = true
+				snowy_creeper = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				dark_oak_enderman = true
+				cave_enderman = true
+				flower_fields_enderman = true
+
+			[light_sources.settings.entities.mobcatalog]
+				stonemaw = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.mca]
+				male_villager = true
+				female_villager = true
+

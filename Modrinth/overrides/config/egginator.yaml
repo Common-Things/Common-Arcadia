@@ -1,0 +1,29 @@
+blacklist: true
+entities:
+- minecraft:wither
+- minecraft:ender_dragon
+updates:
+  minecraft:nether_star:
+    expCost: 30
+    maxNearbyEntities: 0
+    maxSpawnDelay: 0
+    minSpawnDelay: 0
+    requiredPlayerRange: -100
+    spawnCount: 0
+    spawnRange: 0
+  minecraft:netherite_scrap:
+    expCost: 20
+    maxNearbyEntities: 4
+    maxSpawnDelay: 0
+    minSpawnDelay: 0
+    requiredPlayerRange: 0
+    spawnCount: 4
+    spawnRange: 0
+  minecraft:golden_carrot:
+    expCost: 10
+    maxNearbyEntities: 0
+    maxSpawnDelay: -80
+    minSpawnDelay: -20
+    requiredPlayerRange: 0
+    spawnCount: 0
+    spawnRange: 0
